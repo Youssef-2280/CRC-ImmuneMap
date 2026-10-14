@@ -1,0 +1,27 @@
+section,original_filename,new_path,simple_title,provenance
+main,Figure_1_discovery_associations.png,figures/main/01_discovery_associations.png,Discovery cross-program correlations,Python plot from R-exported patient summaries
+main,Figure_2_matched_validation_scores.png,figures/main/02_validation_scores.png,Matched tumor versus normal scores,Python plot from R-exported patient summaries
+main,Figure_3_region_paired_deltas.png,figures/main/03_paired_differences.png,Paired patient differences by region,Python plot from R-exported patient summaries
+main,Figure_4_selection_sensitivity.png,figures/main/04_sensitivity_analysis.png,Cell-selection sensitivity,Python plot from R-exported patient summaries
+main,Figure_5_patient_coverage.png,figures/main/05_patient_coverage.png,Validation patient coverage,Python plot from R-exported patient summaries
+supplementary,S00_original_qc_before_filtering_condition.png,figures/supplementary/s01_qc_before_condition.png,Pre-filter QC by condition,Copied from researcher original R workflow
+supplementary,S00_original_qc_before_filtering_samples.png,figures/supplementary/s02_qc_before_sample.png,Pre-filter QC by sample,Copied from researcher original R workflow
+supplementary,S01_Discovery_retained_cell_QC.png,figures/supplementary/s03_qc_after_filtering.png,Post-filter QC (discovery),Seurat RDS plot
+supplementary,S02_Discovery_broad_annotation_UMAP.png,figures/supplementary/s04_cell_types_umap.png,Discovery broad cell-type UMAP,R/Seurat high-contrast replacement
+supplementary,S03_Discovery_tissue_UMAP.png,figures/supplementary/s05_tumor_normal_umap.png,Discovery tumor and normal UMAP,R/Seurat high-contrast replacement
+supplementary,S03_Discovery_tissue_UMAP.png,figures/supplementary/s06_tumor_normal_split.png,Discovery tumor and normal split UMAP,R/Seurat high-contrast alternate view
+supplementary,S04_Discovery_broad_marker_DotPlot.png,figures/supplementary/s07_cell_type_markers.png,Discovery broad marker DotPlot,Seurat RDS plot
+supplementary,S05_Discovery_Myeloid_annotation_UMAP.png,figures/supplementary/s08_myeloid_umap.png,Discovery myeloid UMAP,Seurat RDS plot
+supplementary,S06_Discovery_Fibroblast_annotation_UMAP.png,figures/supplementary/s09_fibroblast_umap.png,Discovery fibroblast UMAP,Seurat RDS plot
+supplementary,S07_Discovery_Tcell_annotation_UMAP.png,figures/supplementary/s10_tcell_umap.png,Discovery T-cell UMAP,Seurat RDS plot
+supplementary,S08_Validation_authors_processed_QC.png,figures/supplementary/s11_validation_qc.png,Validation authors-processed QC,Seurat RDS plot
+supplementary,S09_Validation_broad_celltype_composition.png,figures/supplementary/s12_validation_cell_types.png,Validation cell-type composition,Seurat RDS plot
+supplementary,S10_Validation_myeloids_clusters_UMAP.png,figures/supplementary/s13_validation_myeloid_clusters.png,Validation myeloid clusters,Seurat RDS plot; unreviewed clusters
+supplementary,S10_Validation_stromal_clusters_UMAP.png,figures/supplementary/s14_validation_stromal_clusters.png,Validation stromal clusters,Seurat RDS plot; unreviewed clusters
+supplementary,S10_Validation_tcells_clusters_UMAP.png,figures/supplementary/s15_validation_tcell_clusters.png,Validation T-cell clusters,Seurat RDS plot; unreviewed clusters
+supplementary,S11_Validation_myeloids_marker_DotPlot.png,figures/supplementary/s16_validation_myeloid_markers.png,Validation myeloid marker DotPlot,Seurat RDS plot; diagnostic
+supplementary,S11_Validation_stromal_marker_DotPlot.png,figures/supplementary/s17_validation_stromal_markers.png,Validation stromal marker DotPlot,Seurat RDS plot; diagnostic
+supplementary,S11_Validation_tcells_marker_DotPlot.png,figures/supplementary/s18_validation_tcell_markers.png,Validation T-cell marker DotPlot,Seurat RDS plot; diagnostic
+supplementary,S12_Validation_myeloids_primary_07e_mask_UMAP.png,figures/supplementary/s19_macrophage_selection.png,Primary myeloid analysis selection UMAP,Seurat RDS plot; user-approved analytical mask
+supplementary,S12_Validation_stromal_primary_07e_mask_UMAP.png,figures/supplementary/s20_fibroblast_selection.png,Primary stromal analysis selection UMAP,Seurat RDS plot; user-approved analytical mask
+supplementary,S12_Validation_tcells_primary_07e_mask_UMAP.png,figures/supplementary/s21_cd8_selection.png,Primary CD8 analysis selection UMAP,Seurat RDS plot; user-approved analytical mask

@@ -1,0 +1,4 @@
+"comparison","x","y","n_patients","rho","p_asymptotic","p_permutation","p_BH_permutation","p_BH_asymptotic","analysis"
+"SPP1_TAM__FAP_CAF","SPP1_TAM","FAP_CAF",11,0.4,0.22286835013352,0.223,0.669,0.66860505040056,"Primary | complete 3-program tumor cohort | mean scores | >=20 cells"
+"SPP1_TAM__CD8_Dysfunction","SPP1_TAM","CD8_Dysfunction",11,0.0818181818181818,0.810990394300046,0.81685,0.81685,0.810990394300046,"Primary | complete 3-program tumor cohort | mean scores | >=20 cells"
+"FAP_CAF__CD8_Dysfunction","FAP_CAF","CD8_Dysfunction",11,-0.181818181818182,0.5926152128455,0.596,0.81685,0.810990394300046,"Primary | complete 3-program tumor cohort | mean scores | >=20 cells"

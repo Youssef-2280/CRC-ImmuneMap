@@ -1,0 +1,17 @@
+"variant","min_cells_per_region","tumor_region","program","n_matched_patients","n_tumor_higher","n_normal_higher","n_equal","median_paired_delta","min_paired_delta","max_paired_delta"
+"all_published_cd8_sensitivity",20,"Tumor_Core_plus_Border","CD8_Cytotoxicity",3,2,1,0,0.024260015010789,-0.066935193528856,0.04288994650945
+"crosslineage_sensitivity",20,"Tumor_Core_plus_Border","CD8_Cytotoxicity",3,2,1,0,0.020869173718438,-0.052777373963133,0.042022534090744
+"omit_high_risk_clusters",20,"Tumor_Core_plus_Border","CD8_Cytotoxicity",3,2,1,0,0.02028450711996,-0.133955253224285,0.023981941261353
+"primary_07e",20,"Tumor_Core_plus_Border","CD8_Cytotoxicity",3,2,1,0,0.023981941261353,-0.067006552825881,0.038901827129428
+"all_published_cd8_sensitivity",20,"Tumor_Core_plus_Border","CD8_Dysfunction",3,3,0,0,0.024284527434266,0.0198133875310141,0.0565198264968668
+"crosslineage_sensitivity",20,"Tumor_Core_plus_Border","CD8_Dysfunction",3,3,0,0,0.036640357231292,0.0153316118226474,0.0516185752965236
+"omit_high_risk_clusters",20,"Tumor_Core_plus_Border","CD8_Dysfunction",3,2,1,0,0.0191029739048797,-0.0406443576435342,0.0245030536541172
+"primary_07e",20,"Tumor_Core_plus_Border","CD8_Dysfunction",3,3,0,0,0.027239158846481,0.0191029739048797,0.053730132695819
+"all_published_cd8_sensitivity",20,"Tumor_Core_plus_Border","FAP_CAF",6,6,0,0,0.228245551090604,0.146528924608344,0.441138038402712
+"crosslineage_sensitivity",20,"Tumor_Core_plus_Border","FAP_CAF",6,6,0,0,0.216419663396174,0.1410571601146,0.398751772754433
+"omit_high_risk_clusters",20,"Tumor_Core_plus_Border","FAP_CAF",5,5,0,0,0.0953500449627023,0.0716958708757598,0.159048861145249
+"primary_07e",20,"Tumor_Core_plus_Border","FAP_CAF",6,6,0,0,0.228245551090604,0.146528924608344,0.441138038402712
+"all_published_cd8_sensitivity",20,"Tumor_Core_plus_Border","SPP1_TAM",4,4,0,0,0.34387092171345,0.284196066381252,0.389708181472521
+"crosslineage_sensitivity",20,"Tumor_Core_plus_Border","SPP1_TAM",4,4,0,0,0.305102655450041,0.271337680133925,0.386760361227484
+"omit_high_risk_clusters",20,"Tumor_Core_plus_Border","SPP1_TAM",2,2,0,0,0.219940299635957,0.183012098354231,0.256868500917683
+"primary_07e",20,"Tumor_Core_plus_Border","SPP1_TAM",4,4,0,0,0.34387092171345,0.284196066381252,0.389708181472521

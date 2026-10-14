@@ -1,0 +1,17 @@
+"variant","tissue_region","n_patients_ge10","n_patients_ge20"
+"all_published_cd8_sensitivity","Normal",6,3
+"all_published_cd8_sensitivity","Tumor_Border",4,3
+"all_published_cd8_sensitivity","Tumor_Core",2,2
+"all_published_cd8_sensitivity","Tumor_Core_plus_Border",4,3
+"crosslineage_sensitivity","Normal",5,3
+"crosslineage_sensitivity","Tumor_Border",4,2
+"crosslineage_sensitivity","Tumor_Core",2,2
+"crosslineage_sensitivity","Tumor_Core_plus_Border",4,3
+"omit_high_risk_clusters","Normal",5,3
+"omit_high_risk_clusters","Tumor_Border",2,2
+"omit_high_risk_clusters","Tumor_Core",1,1
+"omit_high_risk_clusters","Tumor_Core_plus_Border",2,2
+"primary_07e","Normal",6,3
+"primary_07e","Tumor_Border",4,3
+"primary_07e","Tumor_Core",2,2
+"primary_07e","Tumor_Core_plus_Border",4,3

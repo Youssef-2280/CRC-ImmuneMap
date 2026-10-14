@@ -1,0 +1,13 @@
+{
+  "source_check_date": "2026-10-14",
+  "discovery_GEO_samples": 33,
+  "discovery_unique_patients": 23,
+  "validation_GEO_samples": 18,
+  "validation_unique_patients": 6,
+  "validation_uploaded_evidence_samples": 18,
+  "SMC_internal_rows_compared": 33,
+  "GEO_to_internal_id_conflicts": 0,
+  "clinical_stage_by_sample_fully_cross_checked": false,
+  "independent_doublet_reclassification_performed": false,
+  "cell_id_mask_exported_in_this_session": false
+}

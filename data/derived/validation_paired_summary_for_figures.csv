@@ -1,0 +1,13 @@
+"variant","min_cells_per_region","tumor_region","program","n_matched_patients","n_tumor_higher","n_normal_higher","n_equal","median_paired_delta","min_paired_delta","max_paired_delta"
+"primary_07e",20,"Tumor_Core","SPP1_TAM",4,4,0,0,0.328102968992886,0.318808308447345,0.347727529782739
+"primary_07e",20,"Tumor_Core","FAP_CAF",5,5,0,0,0.230902043582584,0.16656604642095,0.440723169156975
+"primary_07e",20,"Tumor_Core","CD8_Dysfunction",2,2,0,0,0.0398188698478723,0.0242691641752957,0.055368575520449
+"primary_07e",20,"Tumor_Core","CD8_Cytotoxicity",2,0,2,0,-0.030596232824831,-0.048675419964458,-0.012517045685204
+"primary_07e",20,"Tumor_Border","SPP1_TAM",4,4,0,0,0.348586075666937,0.20043273592693,0.424434649893015
+"primary_07e",20,"Tumor_Border","FAP_CAF",6,6,0,0,0.215654546560713,0.0967336792671614,0.441936400228541
+"primary_07e",20,"Tumor_Border","CD8_Dysfunction",3,2,1,0,0.0134447655134717,-0.00123019035527,0.055552015336068
+"primary_07e",20,"Tumor_Border","CD8_Cytotoxicity",3,2,1,0,0.035491911076795,-0.085559209951489,0.06395702220282
+"primary_07e",20,"Tumor_Core_plus_Border","SPP1_TAM",4,4,0,0,0.34387092171345,0.284196066381252,0.389708181472521
+"primary_07e",20,"Tumor_Core_plus_Border","FAP_CAF",6,6,0,0,0.228245551090604,0.146528924608344,0.441138038402712
+"primary_07e",20,"Tumor_Core_plus_Border","CD8_Dysfunction",3,3,0,0,0.027239158846481,0.0191029739048797,0.053730132695819
+"primary_07e",20,"Tumor_Core_plus_Border","CD8_Cytotoxicity",3,2,1,0,0.023981941261353,-0.067006552825881,0.038901827129428

@@ -1,0 +1,4 @@
+"comparison","n_patients","rho","p_permutation","p_BH_permutation"
+"SPP1_TAM__FAP_CAF",11,0.4,0.223,0.669
+"SPP1_TAM__CD8_Dysfunction",11,0.0818181818181818,0.81685,0.81685
+"FAP_CAF__CD8_Dysfunction",11,-0.181818181818182,0.596,0.81685

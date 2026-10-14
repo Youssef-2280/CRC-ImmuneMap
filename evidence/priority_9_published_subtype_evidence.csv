@@ -1,0 +1,10 @@
+lineage,cluster,n_cells,published_top_subtype,top_subtype_n,top_subtype_pct,dominant_patient,dominant_patient_n,dominant_patient_pct,tumor_core,tumor_border,normal,subtypes
+myeloids,0,622,SPP1+B,304,48.9,KUL01,589,94.7,294,324,4,SPP1+B:304; Pro-inflammatory:107; Anti-inflammatory:94; SPP1+A:75; Proliferating:35; Unknown:6; cDC:1
+myeloids,3,319,cDC,149,46.7,KUL19,166,52.0,72,70,177,cDC:149; Pro-inflammatory:110; Anti-inflammatory:38; SPP1+B:10; SPP1+A:5; Unknown:5; Proliferating:2
+myeloids,7,113,Unknown,106,93.8,KUL19,44,38.9,44,37,32,Unknown:106; SPP1+B:5; Anti-inflammatory:2
+stromal,0,1085,Myofibroblasts,1043,96.1,KUL21,628,57.9,715,361,9,Myofibroblasts:1043; Stromal 3:33; Stromal 1:7; Smooth muscle cells:2
+stromal,12,191,Stromal 1,181,94.8,KUL01,93,48.7,142,49,0,Stromal 1:181; Myofibroblasts:10
+tcells,2,855,CD8+ T cells,723,84.6,KUL19,571,66.8,304,392,159,CD8+ T cells:723; Unknown:61; NK cells:32; CD4+ T cells:28; Regulatory T cells:7; T follicular helper cells:2; T helper 17 cells:2
+tcells,4,558,CD8+ T cells,381,68.3,KUL31,185,33.2,14,51,493,CD8+ T cells:381; gamma delta T cells:155; CD4+ T cells:17; T helper 17 cells:4; NK cells:1
+tcells,5,356,Unknown,198,55.6,KUL01,296,83.1,151,199,6,Unknown:198; Regulatory T cells:93; CD4+ T cells:51; T helper 17 cells:8; CD8+ T cells:3; NK cells:2; T follicular helper cells:1
+tcells,10,166,CD8+ T cells,160,96.4,KUL19,154,92.8,105,59,2,CD8+ T cells:160; T helper 17 cells:3; Unknown:3
